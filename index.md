@@ -7,13 +7,15 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 try to add sth2
 
-[Link to another page](./another-page.html).
 
-A current Master student at University of Southern California.
 
-Computer Science, Game Development Major.
-
-Seeking for internship during summer.
+>A current Master student at University of Southern California.
+>
+>Computer Science, Game Development Major.
+>
+>Seeking for internship during summer.
+>
+>[Link to my work repo](https://github.com/shinoobu/Portfolio).
 
 
 ## Game Engine
