@@ -21,7 +21,17 @@ try to add sth2
 ## Game Engine
 
 This is what I did in course: CSCI 522 at University of Southern California.
-On this course, 
+
+In this course, I worked with Prime Engine to implement:
+
+*   Random patrol waypoints
+*   Track & Shoot
+*   Bounding Volumes (AABB) and Culling
+*   3rd person control
+*   Animation Blending -- Full, Partial, Additive
+*   Implement 3D sound with Xaudio
+*   Implement partical system
+
 
 ## Header 2
 
