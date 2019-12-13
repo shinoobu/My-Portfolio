@@ -16,6 +16,8 @@ try to add sth2
 >Seeking for internship during summer.
 >
 >[Link to my work repo](https://github.com/shinoobu/Portfolio).
+<br/>
+<br/>
 
 
 ## Game Engine
@@ -31,6 +33,10 @@ In this course, I worked with Prime Engine to implement:
 *   Animation Blending -- Full, Partial, Additive
 *   Implement 3D sound with Xaudio
 *   Implement partical system
+
+
+
+
 
 
 ## Header 2
