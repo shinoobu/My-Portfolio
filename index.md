@@ -99,4 +99,4 @@ Course: CMPSC 431W, Database Management System. Provided by the Pennsylvania Sta
 
 It is a simple database system that used for course registration.
 
-If you want to see more details, contact me then I can send a copy.
+Contact me for more details.
