@@ -9,13 +9,14 @@ try to add sth
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+A current Master student at University of Southern California.
+Computer Science, Game Development Major.
+Seeking for internship during summer.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Game Engine
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+This is what I did in course: CSCI 522 at University of Southern California.
+On this course, 
 
 ## Header 2
 
