@@ -5,13 +5,16 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 
-try to add sth
+try to add sth2
 
 [Link to another page](./another-page.html).
 
 A current Master student at University of Southern California.
+
 Computer Science, Game Development Major.
+
 Seeking for internship during summer.
+
 
 ## Game Engine
 
