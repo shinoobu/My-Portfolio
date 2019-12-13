@@ -2,8 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 
 
 >A current Master student at University of Southern California.
@@ -68,6 +66,7 @@ I worked on the rigidbody part of the cart.
 You can find more information here:
 
 [Link to Video](https://www.youtube.com/watch?v=1le_Cl_cutM&feature=youtu.be).
+
 [Link to Repository](https://github.com/benhaderle/RacingJamGame).
 
 
@@ -83,66 +82,19 @@ You can find detailed information in my repository link.
 
 
 
-### There's a horizontal rule below this.
+
 
 * * *
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+## OTHER WORKS
 
 
-### Definition lists can be used with HTML syntax.
+### A database management system
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+This is the final project I did by myself during undergraduate
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+Course: CMPSC 431W, Database Management System. Provided by the Pennsylvania State University.
 
-```
-The final element.
-```
+It is a simple database system that used for course registration.
+
+If you want to see more details, contact me then I can send a copy.
