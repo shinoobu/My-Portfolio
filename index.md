@@ -29,7 +29,7 @@ In this course, I worked in Prime Engine to implement:
 *   Implement 3D sound with Xaudio
 *   Implement partical system
 
-You can find detailed information in my repository link.
+You can find demos in my repository link.
 
 
 <br/>
@@ -40,7 +40,7 @@ You can find detailed information in my repository link.
 
 This is what I did in course: CSCI 580 at University of Southern California
 
-In the six homework of this course, we built a Gz library. Followings are implemented:
+In the six individual homework of this course, we built a Gz library. Followings are implemented:
 
 *   Pixel Drawing
 *   LEE Algorithm
@@ -50,7 +50,9 @@ In the six homework of this course, we built a Gz library. Followings are implem
 *   uv Texture
 *   Multipass Antialiasing
 
-You can find detailed information in my repository link.
+For the final project, my team and I implemented a cube mapping box without help from libraries.
+
+You can find the final report in my repository link.
 
 <br/>
 
@@ -78,7 +80,7 @@ This is what I did in course: CTIN 488 at University of Southern California
 
 In this course, I designed several board games with different teams.
 
-You can find detailed information in my repository link.
+You can find detailed works in my repository link.
 
 
 
