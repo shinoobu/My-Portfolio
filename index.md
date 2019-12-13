@@ -5,9 +5,6 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 
-try to add sth2
-
-
 
 >A current Master student at University of Southern California.
 >
@@ -24,7 +21,7 @@ try to add sth2
 
 This is what I did in course: CSCI 522 at University of Southern California.
 
-In this course, I worked with Prime Engine to implement:
+In this course, I worked in Prime Engine to implement:
 
 *   Random patrol waypoints
 *   Track & Shoot
@@ -34,54 +31,57 @@ In this course, I worked with Prime Engine to implement:
 *   Implement 3D sound with Xaudio
 *   Implement partical system
 
+You can find detailed information in my repository link.
+
+
+<br/>
 
 
 
+## 3D Graphics and Rendering
+
+This is what I did in course: CSCI 580 at University of Southern California
+
+In the six homework of this course, we built a Gz library. Followings are implemented:
+
+*   Pixel Drawing
+*   LEE Algorithm
+*   Space Transformation
+*   Z-interpolation
+*   Flat Shading, Gouraud Shading, Phong Shading
+*   uv Texture
+*   Multipass Antialiasing
+
+You can find detailed information in my repository link.
+
+<br/>
 
 
-## Header 2
+## A Cart Racing Game
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+My team and I made this during USC MEGA GAME JAM, 2019 FALL.
 
-### Header 3
+It is the first time I tried to make a game with Unity 3D.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+I worked on the rigidbody part of the cart.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+You can find more information here:
 
-#### Header 4
+[Link to Video](https://www.youtube.com/watch?v=1le_Cl_cutM&feature=youtu.be).
+[Link to Repository](https://github.com/benhaderle/RacingJamGame).
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
 
-##### Header 5
+<br/>
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+## Game Design Workshop
 
-###### Header 6
+This is what I did in course: CTIN 488 at University of Southern California
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+In this course, I designed several board games with different teams.
+
+You can find detailed information in my repository link.
+
+
 
 ### There's a horizontal rule below this.
 
