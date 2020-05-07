@@ -58,12 +58,11 @@ You can find the final report in my repository link.
 
 ## Singleless
 
-We are still working on this project for CTIN 532 class.
+My partner and I made a fastpaced local PvP shooting game with Unity 3D for CTIN 532 class.
 
-My partner and I make a shooting game with Unity 3D.
+[Link to Video](https://drive.google.com/open?id=1B8XS8uEvE-3ihQfaqt3kS6IZkx4NqC7W).
 
-Because it is not completed yet, please contact me for further details or game builds.
-
+Also, you can contact me for Release Candidate build.
 
 <br/>
 
